@@ -19,3 +19,4 @@ May 10 - 14, 2027
 - Travel
 - Hotel
 - Contacts
+- Sponsors
